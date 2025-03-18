@@ -1,0 +1,18 @@
+.latex-preview {
+    font-size: 1.1em;
+    line-height: 1.6;
+    padding: 1rem;
+    background-color: #f8f9fa;
+    border-radius: 0.5rem;
+    overflow-x: auto;
+  }
+  
+  .latex-preview .katex {
+    font-size: 1.1em;
+  }
+  
+  .latex-preview .katex-display {
+    margin: 1em 0;
+    overflow-x: auto;
+    overflow-y: hidden;
+  }
